@@ -582,7 +582,7 @@ while True:
 
 
                       \033[1;34;40m Ataque DDOS \033[0;0m</> \033[0;49;92mELITEDDOS\033[0;0m 
-                        Author -> João'Xspam. </> ABH
+                . </> ABH
         \033[0;49;95m Exemplo -> python3 EliteDDOS.py -s 127.0.0.1 -p 443 -t 200
         \033[1;34;40m	-s : server ip\033[0;0m
         \033[0;49;33m	-p : port default 80\033[0;0m
